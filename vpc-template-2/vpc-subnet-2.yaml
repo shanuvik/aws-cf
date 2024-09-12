@@ -19,4 +19,4 @@ Resources:
       Tags:
         - Key: Name
           Value: MySubnet-jenkins
-
+# This template is fine
